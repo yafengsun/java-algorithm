@@ -13,3 +13,8 @@
 ## Linux（操作系统）
 
 ## java algorithm
+
+## leetcode
+- [Binary Tree Postorder Traversal](leetcode/medium/BinaryTreePostorderTraversal.java)
+
+- [Insert into a Binary Search Tree](leetcode/medium/InsertIntoBinarySearchTree.java)
